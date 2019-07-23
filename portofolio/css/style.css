@@ -2,3 +2,14 @@
     width: 200px;
     border: 5px solid #666;
 }
+hr {
+    width: 250px;
+    border-top: 3px solid #999;
+}
+/* section ini sebenarnya classnya about */
+section {
+    min-height: 600px;
+}
+.portfolio {
+    background-color: #eee;
+}
